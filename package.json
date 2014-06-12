@@ -1,0 +1,25 @@
+{
+  "name": "unep-api-client",
+  "version": "1.0.0",
+  "description": "A node.js client for accessing the UNEP Live APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "unep",
+    "ede",
+    "client"
+  ],
+  "author": "Andrea Rossi <andrea.rossi@lucidstack.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.1.1",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "coffee-script": "^1.7.1",
+    "sinon": "^1.10.2"
+  }
+}
