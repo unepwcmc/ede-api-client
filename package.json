@@ -2,7 +2,7 @@
   "name": "unep-api-client",
   "version": "1.0.0",
   "description": "A node.js client for accessing the UNEP Live APIs",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
