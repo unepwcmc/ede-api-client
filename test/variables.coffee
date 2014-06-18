@@ -3,7 +3,7 @@ assert = require('chai').assert
 Promise =  require('bluebird')
 request = Promise.promisifyAll(require('request'))
 
-edeClient = require('../src/index')
+edeClient = require('../lib/index')
 
 suite('Variables')
 
