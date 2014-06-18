@@ -20,6 +20,9 @@
   "devDependencies": {
     "chai": "^1.9.1",
     "coffee-script": "^1.7.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.10.1",
+    "grunt-mocha-test": "^0.11.0",
     "sinon": "^1.10.2"
   }
 }
